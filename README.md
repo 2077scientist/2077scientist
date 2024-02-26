@@ -2,8 +2,6 @@
 - 👀 I’m interested by Data Analytics / Data Science 
 - 🌱 I’m currently learning R / SQL / PowerBI
 - 💞️ I’m looking to collaborate on various Projects
-- 📫 How to reach me ...
-- 😄 
 - ⚡ Fun fact: i love trading ! 
 
 <!---
